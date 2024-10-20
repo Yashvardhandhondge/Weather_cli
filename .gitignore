@@ -1,22 +1,18 @@
 .env
-# Compiled output
+
 /target/
 
-# Rust's cargo.lock file can be ignored for libraries
-# but should be committed for binaries
-# cargo.lock
 
-# Other files you might want to ignore
+
 **/*.rs.bk
 **/*.log
 **/*.pdb
 **/*.dSYM
 
-# System files
+
 .DS_Store
 Thumbs.db
 
-# Other temporary files
 *.tmp
 *.swp
 *.swo
